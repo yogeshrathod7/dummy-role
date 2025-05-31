@@ -1,8 +1,8 @@
 #SPDX-License-Identifier: MIT-0
 galaxy_info:
-  author: your name
-  description: your role description
-  company: your company (optional)
+  author: Yogesh Rathod
+  description: role to install apache2 on linux environments.
+  company: xyz
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
